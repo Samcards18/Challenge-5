@@ -1,4 +1,4 @@
-# This is a test title
+# README GENERATOR
     ## Description
     this is a test description including motivation.
     ## Table of Contents
@@ -14,4 +14,4 @@
     ## Tests
     Here are test instructions
     ## Questions
-    If you have any questions, please contact me at Samcards18 or smedina2013@gmail.com.
+    If you have any questions, please contact me at github.com/Samcards18 or smedina2013@gmail.com.
